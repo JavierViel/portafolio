@@ -1,0 +1,50 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 400;
+}
+
+.jumbotron {
+    background: url("../img/bg_hero.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 737px;
+    background-position: center bottom;
+}
+
+.bg-morado {
+    background-color: #660066;
+}
+
+.logo {
+    font-family: 'Merriweather Sans';
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.logo-color {
+    color: #660066;
+}
+
+a {
+    color: #ffffff;
+}
+
+h1 h2 h3 h4 {
+    font-family: 'Merriweather Sans';
+    font-weight: 800;
+}
+
+h2.tipo2 {
+    font-family: 'Merriweather Sans';
+    font-weight: 400;
+}
+
+hr.clas1 {
+    border-top: 2px solid white;
+    width: 200px;
+}
+
+hr.clas2 {
+    border-top: 2px solid black;
+    width: 100px;
+}
